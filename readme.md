@@ -1,5 +1,11 @@
 A python package for analyzing gaussian and binomial distribution .
 
+INSTALLATION :
+
+Enter the terminal window and enter the command "pip install gab-probability"
+
+USAGE :
+
 Gaussian distribution class for calculating and visualizing a Gaussian distribution.
 	
 	Attributes:
